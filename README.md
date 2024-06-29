@@ -12,9 +12,10 @@ Berikut langkah-langkah untuk menjalankan proyek ini:
 
 2. **Unduh/Buka File `algoritma.ipynb`**
    - File ini berisi implementasi algoritma-algoritma yang akan digunakan.
+   - pilih salah satu(ann,knn,naive-bayes)
 
 3. **Parafrasekan Isi File `algoritma.ipynb`**
-   - Gunakan GPT (dengan prompt "parafrasekan kode") untuk menghasilkan versi yang baru dari kode algoritma. ojo angger copas mbut,nek ketoro sak kelas podo kabeh tak bandem ndasmu!!!,komentar ng kode barang nek perlu diganti bolo
+   - Gunakan GPT (dengan prompt "parafrasekan kode") untuk menghasilkan versi yang baru dari kode algoritma yang sudah dipilih. ojo angger copas mbut,nek ketoro sak kelas podo kabeh tak bandem ndasmu!!!,komentar ng kode barang nek perlu diganti bolo
 
 4. **Integrasi Algoritma**
    - Buka file `main.ipynb` dan paste hasil parafrase dari langkah sebelumnya di akhir file ini. Hal ini memungkinkan integrasi algoritma-algoritma baru ke dalam skrip utama.
