@@ -26,8 +26,8 @@ Pastikan lingkungan pengembangan Python Anda sudah siap dengan semua dependensi 
 ### Kontributor
 - Jeki
 
-### Lisensi
-nek onok salah e dimaklumi,ojo protes.nek pingin ideal garap o dewe
+### Nb
+nek onok salah e dimaklumi,ojo protes.nek pingin ideal garap o dewe.cobalah memahami sebelum bertanya, ingat pepatah spayol "tersesatlah sebelum bertanya"
 
 ### Kontak
 Untuk informasi lebih lanjut atau pertanyaan, silakan hubungi discord jack018401.
