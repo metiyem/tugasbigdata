@@ -26,7 +26,7 @@ Pastikan lingkungan pengembangan Python Anda sudah siap dengan semua dependensi 
 - Jeki
 
 ### Lisensi
-nek bingung japri bolo.
+nek onok salah e dimaklumi,ojo protes.nek pingin ideal garap o dewe
 
 ### Kontak
 Untuk informasi lebih lanjut atau pertanyaan, silakan hubungi discord jack018401.
