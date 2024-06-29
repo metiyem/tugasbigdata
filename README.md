@@ -14,7 +14,7 @@ Berikut langkah-langkah untuk menjalankan proyek ini:
    - File ini berisi implementasi algoritma-algoritma yang akan digunakan.
 
 3. **Parafrasekan Isi File `algoritma.ipynb`**
-   - Gunakan GPT (dengan prompt "parafrasekan kode") untuk menghasilkan versi yang baru dari kode algoritma. Ini membantu dalam memahami dan memodifikasi kode dengan cara yang lebih mudah dipahami.
+   - Gunakan GPT (dengan prompt "parafrasekan kode") untuk menghasilkan versi yang baru dari kode algoritma. ojo angger copas mbut,nek ketoro sak kelas podo kabeh tak bandem ndasmu!!!,komentar ng kode barang nek perlu diganti bolo
 
 4. **Integrasi Algoritma**
    - Buka file `main.ipynb` dan paste hasil parafrase dari langkah sebelumnya di akhir file ini. Hal ini memungkinkan integrasi algoritma-algoritma baru ke dalam skrip utama.
@@ -23,7 +23,7 @@ Berikut langkah-langkah untuk menjalankan proyek ini:
 Pastikan lingkungan pengembangan Python Anda sudah siap dengan semua dependensi yang dibutuhkan oleh proyek ini. Juga, pastikan untuk menjalankan setiap sel notebook secara berurutan untuk menghindari masalah kompatibilitas atau ketergantungan antar sel.
 
 ### Kontributor
-- Jack
+- Jeki
 
 ### Lisensi
 nek bingung japri bolo.
