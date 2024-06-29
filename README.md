@@ -23,10 +23,10 @@ Berikut langkah-langkah untuk menjalankan proyek ini:
 Pastikan lingkungan pengembangan Python Anda sudah siap dengan semua dependensi yang dibutuhkan oleh proyek ini. Juga, pastikan untuk menjalankan setiap sel notebook secara berurutan untuk menghindari masalah kompatibilitas atau ketergantungan antar sel.
 
 ### Kontributor
-- [Nama Anda]
+- Jack
 
 ### Lisensi
-Tidak ada informasi lisensi yang disebutkan dalam proyek ini. Pastikan untuk menghubungi pemilik proyek sebelum menggunakan atau mendistribusikan ulang materi ini.
+nek bingung japri bolo.
 
 ### Kontak
-Untuk informasi lebih lanjut atau pertanyaan, silakan hubungi [email@example.com].
+Untuk informasi lebih lanjut atau pertanyaan, silakan hubungi discord jack018401.
